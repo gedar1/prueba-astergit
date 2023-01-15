@@ -4,5 +4,8 @@
 # $ git add .
 * Añade todos los archivos.
 
-# $ git commit -m "meensaje"
-* Este comando se utileza para guardar los cambios en el repositorio local
+# $ git commit -m "mensaje"
+* Este comando se utiliza para guardar los cambios en el repositorio local
+
+# $ git push origin
+* se usa para cargar o subir contenido del repositorio local a un repositorio remoto
