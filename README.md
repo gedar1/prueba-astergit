@@ -7,5 +7,5 @@
 # $ git commit -m "mensaje"
 * Este comando se utiliza para guardar los cambios en el repositorio local
 
-# $ git push origin
+# $ git push 
 * se usa para cargar o subir contenido del repositorio local a un repositorio remoto
