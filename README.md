@@ -12,3 +12,6 @@
 
 # $ git checkout -b nombre-rama
 * Permite crear una nueva rama y al mismo tiempo te lleva a esa rama
+
+# $ git status 
+* permite ver los cambios,muestra el estado del directorio de trabajo y el area de preparacion
