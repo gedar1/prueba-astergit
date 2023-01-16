@@ -9,3 +9,6 @@
 
 # $ git push 
 * se usa para cargar o subir contenido del repositorio local a un repositorio remoto
+
+# $ git checkout -b nombre-rama
+* Permite crear una nueva rama y al mismo tiempo te lleva a esa rama
